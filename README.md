@@ -1,0 +1,2 @@
+# PolymorphismInterface
+ Interface
