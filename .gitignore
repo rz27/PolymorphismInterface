@@ -1,0 +1,16 @@
+
+tugaspolymorphism/obj/tugaspolymorphismInterface.csproj.nuget.g.targets
+tugaspolymorphism/obj/tugaspolymorphismInterface.csproj.nuget.g.props
+tugaspolymorphism/obj/tugaspolymorphismInterface.csproj.nuget.dgspec.json
+tugaspolymorphism/obj/tugaspolymorphismInterface.csproj.nuget.cache
+tugaspolymorphism/obj/tugaspolymorphism.csproj.nuget.g.targets
+tugaspolymorphism/obj/tugaspolymorphism.csproj.nuget.g.props
+tugaspolymorphism/obj/tugaspolymorphism.csproj.nuget.dgspec.json
+tugaspolymorphism/obj/tugaspolymorphism.csproj.nuget.cache
+*.json
+*.pdb
+*.dll
+*.cache
+*.txt
+tugaspolymorphism/obj/Debug/netcoreapp3.1/tugaspolymorphism.AssemblyInfo.cs
+tugaspolymorphism/obj/Debug/netcoreapp3.1/tugaspolymorphismInterface.AssemblyInfo.cs
